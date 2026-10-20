@@ -71,3 +71,9 @@ Nesta etapa de prototipagem funcional, alcançamos os seguintes resultados:
 * **Integração Back:** Comunicação estabelecida com sucesso. Ao disparar algumas rotas via Postman ou Insomnia, o backend registra ou busca no banco de dados.
 * **Jornada Visual (Figma):** O mapeamento completo das telas de monitoramento e automação já está finalizado e validado.
 * **Ĩmplementação Front:** Telas no mobile e web estão sendo implementadas para poder serem integradas com o back.
+
+
+### Os repositórios dos códigos
+front: https://github.com/vencedoresdonext/goodwe-challenge-front
+back: https://github.com/vencedoresdonext/goodwe-challenge-service
+mobile: https://github.com/vencedoresdonext/goodwe-challenge-mobile
