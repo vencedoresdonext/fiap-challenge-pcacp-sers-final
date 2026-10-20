@@ -74,6 +74,6 @@ Nesta etapa de prototipagem funcional, alcançamos os seguintes resultados:
 
 
 ### Os repositórios dos códigos
-front: https://github.com/vencedoresdonext/goodwe-challenge-front
-back: https://github.com/vencedoresdonext/goodwe-challenge-service
-mobile: https://github.com/vencedoresdonext/goodwe-challenge-mobile
+- front: https://github.com/vencedoresdonext/goodwe-challenge-front
+- back: https://github.com/vencedoresdonext/goodwe-challenge-service
+- mobile: https://github.com/vencedoresdonext/goodwe-challenge-mobile
