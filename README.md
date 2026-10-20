@@ -8,7 +8,7 @@
 
 Nome Completo | RM | Função | GitHub |
 | :--- | :---: | :--- | :---: |
-| **Enzo Seiji Delgado Tabuchi** | 573156 | 👑 Líder / ⚙️ Backend / 🤖 IA | [@enzo-tabuchi-github](https://github.com/enzotabuchii) |
+| **Enzo Seiji Delgado Tabuchi** | 573156 | ⚙️ Backend / 🤖 IA | [@enzo-tabuchi-github](https://github.com/enzotabuchii) |
 | **Henrique Almeida Lucareli** | 569183 | 📊 Dados / 📱 Mobile | [@henrique-lucareli-github](https://github.com/HenriqueAlmeidaLucareli) |
 | **Leonardo Scotti Tobias** | 573305 | 🎨 Frontend | [@leonardo-scotti-github](https://github.com/leonardo-scotti) |
 | **Luca Almeida Lucareli** | 569061 | ⚙️ Backend / 📊 Dados | [@luca-lucareli-github](https://github.com/LucaLucareli) |
